@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import Link from 'next/link';
 
-import About from '../components/about';
 import Title from '../components/title';
+import About from '../components/about';
 
 export default function Home() {
   return (
