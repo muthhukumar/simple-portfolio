@@ -20,8 +20,8 @@ export default function Home() {
           Currently in love with using Nextjs and tailwindcss.</div>
         </About>
         <About title="Contact">
-          <div className="text-gray-800 my-1 tracking-wide">Want to react out? Contact me by <Link href="https://twitter.com/0_void_"><a className="underline">
-            Twitter</a></Link> or <Link href="https://github.com/0-void"><a className="underline">GitHub</a></Link></div>
+          <div className="text-gray-800 my-1 tracking-wide">Want to react out? Contact me by <Link href="https://twitter.com/am_muthukumar"><a className="underline">
+            Twitter</a></Link> or <Link href="https://github.com/muthhukumar"><a className="underline">GitHub</a></Link></div>
         </About>
       </main>
 
